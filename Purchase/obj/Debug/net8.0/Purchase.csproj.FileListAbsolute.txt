@@ -1,0 +1,14 @@
+C:\Users\hferr\source\repos\Purchase\Purchase\bin\Debug\net8.0\Purchase.exe
+C:\Users\hferr\source\repos\Purchase\Purchase\bin\Debug\net8.0\Purchase.deps.json
+C:\Users\hferr\source\repos\Purchase\Purchase\bin\Debug\net8.0\Purchase.runtimeconfig.json
+C:\Users\hferr\source\repos\Purchase\Purchase\bin\Debug\net8.0\Purchase.dll
+C:\Users\hferr\source\repos\Purchase\Purchase\bin\Debug\net8.0\Purchase.pdb
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.AssemblyInfoInputs.cache
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.AssemblyInfo.cs
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.csproj.CoreCompileInputs.cache
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.dll
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\refint\Purchase.dll
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.pdb
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.genruntimeconfig.cache
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\ref\Purchase.dll
