@@ -12,3 +12,4 @@ C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\refint\Purchase.d
 C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.pdb
 C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.genruntimeconfig.cache
 C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\ref\Purchase.dll
+C:\Users\hferr\source\repos\Purchase\Purchase\obj\Debug\net8.0\Purchase.sourcelink.json

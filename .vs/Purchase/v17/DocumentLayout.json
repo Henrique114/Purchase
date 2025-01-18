@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C5D624FA-808B-43AC-BFA3-0C4BB55D1F38}|Purchase\\Purchase.csproj|c:\\users\\hferr\\source\\repos\\purchase\\purchase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5D624FA-808B-43AC-BFA3-0C4BB55D1F38}|Purchase\\Purchase.csproj|solutionrelative:purchase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D6684A-5790-430C-A49C-6D76D9BB740E}|Purchase.Test\\Purchase.Test.csproj|c:\\users\\hferr\\source\\repos\\purchase\\purchase.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D6684A-5790-430C-A49C-6D76D9BB740E}|Purchase.Test\\Purchase.Test.csproj|solutionrelative:purchase.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\hferr\\source\\repos\\Purchase\\Purchase.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Purchase.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\hferr\\source\\repos\\Purchase\\Purchase.Test\\UnitTest1.cs",
+              "RelativeToolTip": "Purchase.Test\\UnitTest1.cs",
+              "ViewState": "AgIAABoAAACAMzMzM7MQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T02:16:07.028Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Purchase\\Program.cs",
               "ToolTip": "C:\\Users\\hferr\\source\\repos\\Purchase\\Purchase\\Program.cs",
               "RelativeToolTip": "Purchase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAA/////78swB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T02:05:54.698Z",
               "EditorCaption": ""
